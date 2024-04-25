@@ -1,0 +1,13 @@
+.cointainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.main{
+    width: 700px;
+}
+@media (max-width:800px) {
+    .main{
+        width: 100%;
+    }
+}
